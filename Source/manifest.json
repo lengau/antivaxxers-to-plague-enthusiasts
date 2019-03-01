@@ -1,11 +1,11 @@
 {
 	"manifest_version": 2,
 
-	"name": "Millennials to Snake People",
-    "short_name": "Snake People",
-	"description": "Replaces the text 'Millennial' with 'Snake People'.",
-	"author": "Eric Bailey",
-	"version": "2.2",
+	"name": "Anti-vaxxers to plague enthusiasts",
+    "short_name": "Plague Enthusiasts",
+	"description": "Replaces the text 'anti-vaxxer' with 'plague enthusiast'.",
+	"author": "Alex Lowe",
+	"version": "0.1",
 
 	"icons": {
 		"16": "icon16.png",

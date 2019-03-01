@@ -1,3 +1,6 @@
+The source code in this project is based on the Millennials to Snake People
+project and follows its license:
+
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
                     Version 2, December 2004
 
@@ -11,3 +14,7 @@
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
+
+
+The icon was taken from https://svgsilh.com/image/1712511.html and falls under
+its CC0 licence: https://creativecommons.org/publicdomain/zero/1.0/
